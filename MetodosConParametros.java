@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Esta clase comprueba si tres numeros introducidos pueden formar una fecha correcta.
+ * <h2>Esta clase comprueba si tres numeros introducidos pueden formar una fecha correcta</h2>
  * @author Andres Ibanez vargas
  * @version 12-2021
  * @since 12-2021
